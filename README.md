@@ -1,5 +1,5 @@
 # Overview
-This project aims to analyze a network of Amazon's products covers the following topics:
+This project aims to analyze a network of Amazon's products and covers the following topics:
 - network analysis
 - sentiment analysis on the reviews
 - information extraction from text
