@@ -1,6 +1,11 @@
-# DataAnalyticsProject
+# Overview
+This project aims to analyze a network of Amazon's products covers the following topics:
+- network analysis
+- sentiment analysis on the reviews
+- information extraction from text
 
-For a description of the project look at [Report.pdf](Report.pdf)
+
+To learn more about the project see the [presentation](Presentation.pdf) and the [report](Report.pdf).
 
 # Group
 
