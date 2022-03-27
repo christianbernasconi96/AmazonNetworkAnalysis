@@ -5,7 +5,7 @@ This project aims to analyze a network of Amazon's products and covers the follo
 - information extraction from text
 
 
-To learn more about the project see the [presentation](Presentation.pdf) and the [report](Report.pdf).
+To learn more about the project see the [presentation](Presentation.pdf) and [report](Report.pdf).
 
 # Group
 
